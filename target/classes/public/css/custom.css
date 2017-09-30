@@ -1,0 +1,19 @@
+.container {
+	max-width: 800px;
+}
+.header {
+	margin-top: 4rem;
+	text-align: center;
+}
+.footer {
+	text-align: center;
+	margin-top: 5rem;
+	margin-bottom: 1rem;
+}
+@media (min-width: 550px) {
+	
+	.header {
+		margin-top: 10rem;
+	}
+	
+}
