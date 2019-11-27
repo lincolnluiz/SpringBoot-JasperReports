@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: SpringJasper
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: kingd
+Built-By: Anderson
 Implementation-Vendor-Id: com.github.lincolnluiz
-Build-Jdk: 1.8.0_141
+Build-Jdk: 1.8.0_221
 Implementation-URL: http://projects.spring.io/spring-boot/SpringJasper
  /
 Created-By: Maven Integration for Eclipse
