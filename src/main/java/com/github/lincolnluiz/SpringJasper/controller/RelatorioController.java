@@ -60,6 +60,9 @@ public class RelatorioController {
 		JasperExportManager.exportReportToPdfStream(jasperPrint, outStream);
 	}
 	
+	//foramas de gerar report
+	//https://www.programcreek.com/java-api-examples/?api=net.sf.jasperreports.engine.data.JRBeanCollectionDataSource
+	
 	@PostMapping("/jrds")
 	public void imprimirTwo(@RequestParam Map<String, Object> parametros, HttpServletResponse response) throws JRException, SQLException, IOException {
 		
