@@ -10,6 +10,8 @@ O projeto esta configurado para usar banco de dados PostgreSQL, crie uma base de
 
 Os dados de conexão podem ser alterados no *application.properties*: 
 
+```
 spring.datasource.url=jdbc:postgresql://localhost:5432/springjasper
 spring.datasource.username=postgres
 spring.datasource.password=admin
+```
